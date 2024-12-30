@@ -1,0 +1,9 @@
+tr,
+td,
+th {
+  padding: 10px;
+  border: 1px solid;
+}
+table {
+  padding: 20px;
+}
